@@ -7,4 +7,7 @@ All_productivity_app.csv (30,450 apps)
 Selected_app_info.csv (15 apps)
 
 
+Collected some data from Google Play Store through google_play_scraper API
+
+
 
